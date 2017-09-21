@@ -1,0 +1,2 @@
+addition;bière;loisir;20;03/04/2012;
+soustraction;paye;emploi;1000;04/09/2017;
